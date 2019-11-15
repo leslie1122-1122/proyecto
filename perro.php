@@ -13,5 +13,7 @@ class perro extends animal{
  {
      return $this->tamaño_bigote;
  }
+ 
+ echo "mi segundo comentario"
 }
 
