@@ -25,5 +25,7 @@ class animal{
         return $this->peso;
  
     }
+    
+    echo "agrege un comentario leslie"
 }     
     
